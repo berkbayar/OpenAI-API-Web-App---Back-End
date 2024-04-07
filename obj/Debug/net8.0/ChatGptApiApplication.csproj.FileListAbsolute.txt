@@ -1,0 +1,73 @@
+/Users/berkbayar/Desktop/ChatGptApiApplication/obj/Debug/net8.0/ChatGptApiApplication.csproj.AssemblyReference.cache
+/Users/berkbayar/Desktop/ChatGptApiApplication/obj/Debug/net8.0/ChatGptApiApplication.GeneratedMSBuildEditorConfig.editorconfig
+/Users/berkbayar/Desktop/ChatGptApiApplication/obj/Debug/net8.0/ChatGptApiApplication.AssemblyInfoInputs.cache
+/Users/berkbayar/Desktop/ChatGptApiApplication/obj/Debug/net8.0/ChatGptApiApplication.AssemblyInfo.cs
+/Users/berkbayar/Desktop/ChatGptApiApplication/obj/Debug/net8.0/ChatGptApiApplication.csproj.CoreCompileInputs.cache
+/Users/berkbayar/Desktop/ChatGptApiApplication/obj/Debug/net8.0/ChatGptApiApplication.MvcApplicationPartsAssemblyInfo.cs
+/Users/berkbayar/Desktop/ChatGptApiApplication/obj/Debug/net8.0/ChatGptApiApplication.MvcApplicationPartsAssemblyInfo.cache
+/Users/berkbayar/Desktop/ChatGptApiApplication/bin/Debug/net8.0/appsettings.Development.json
+/Users/berkbayar/Desktop/ChatGptApiApplication/bin/Debug/net8.0/appsettings.json
+/Users/berkbayar/Desktop/ChatGptApiApplication/bin/Debug/net8.0/ChatGptApiApplication
+/Users/berkbayar/Desktop/ChatGptApiApplication/bin/Debug/net8.0/ChatGptApiApplication.deps.json
+/Users/berkbayar/Desktop/ChatGptApiApplication/bin/Debug/net8.0/ChatGptApiApplication.runtimeconfig.json
+/Users/berkbayar/Desktop/ChatGptApiApplication/bin/Debug/net8.0/ChatGptApiApplication.dll
+/Users/berkbayar/Desktop/ChatGptApiApplication/bin/Debug/net8.0/ChatGptApiApplication.pdb
+/Users/berkbayar/Desktop/ChatGptApiApplication/bin/Debug/net8.0/Microsoft.AspNetCore.OpenApi.dll
+/Users/berkbayar/Desktop/ChatGptApiApplication/bin/Debug/net8.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/berkbayar/Desktop/ChatGptApiApplication/bin/Debug/net8.0/Microsoft.OpenApi.dll
+/Users/berkbayar/Desktop/ChatGptApiApplication/bin/Debug/net8.0/Newtonsoft.Json.dll
+/Users/berkbayar/Desktop/ChatGptApiApplication/bin/Debug/net8.0/OpenAI_API.dll
+/Users/berkbayar/Desktop/ChatGptApiApplication/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/berkbayar/Desktop/ChatGptApiApplication/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/berkbayar/Desktop/ChatGptApiApplication/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/berkbayar/Desktop/ChatGptApiApplication/obj/Debug/net8.0/staticwebassets.build.json
+/Users/berkbayar/Desktop/ChatGptApiApplication/obj/Debug/net8.0/staticwebassets.development.json
+/Users/berkbayar/Desktop/ChatGptApiApplication/obj/Debug/net8.0/staticwebassets/msbuild.ChatGptApiApplication.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/berkbayar/Desktop/ChatGptApiApplication/obj/Debug/net8.0/staticwebassets/msbuild.build.ChatGptApiApplication.props
+/Users/berkbayar/Desktop/ChatGptApiApplication/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.ChatGptApiApplication.props
+/Users/berkbayar/Desktop/ChatGptApiApplication/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.ChatGptApiApplication.props
+/Users/berkbayar/Desktop/ChatGptApiApplication/obj/Debug/net8.0/staticwebassets.pack.json
+/Users/berkbayar/Desktop/ChatGptApiApplication/obj/Debug/net8.0/scopedcss/bundle/ChatGptApiApplication.styles.css
+/Users/berkbayar/Desktop/ChatGptApiApplication/obj/Debug/net8.0/ChatGptApiApplication.csproj.CopyComplete
+/Users/berkbayar/Desktop/ChatGptApiApplication/obj/Debug/net8.0/ChatGptApiApplication.dll
+/Users/berkbayar/Desktop/ChatGptApiApplication/obj/Debug/net8.0/refint/ChatGptApiApplication.dll
+/Users/berkbayar/Desktop/ChatGptApiApplication/obj/Debug/net8.0/ChatGptApiApplication.pdb
+/Users/berkbayar/Desktop/ChatGptApiApplication/obj/Debug/net8.0/ChatGptApiApplication.genruntimeconfig.cache
+/Users/berkbayar/Desktop/ChatGptApiApplication/obj/Debug/net8.0/ref/ChatGptApiApplication.dll
+/Users/berkbayar/Desktop/ChatGptApiApplication/obj/Debug/net8.0/ChatGptApiApplication.sourcelink.json
+/Users/berkbayar/Desktop/OpenAI API Web App - Back End/bin/Debug/net8.0/appsettings.Development.json
+/Users/berkbayar/Desktop/OpenAI API Web App - Back End/bin/Debug/net8.0/appsettings.json
+/Users/berkbayar/Desktop/OpenAI API Web App - Back End/bin/Debug/net8.0/ChatGptApiApplication
+/Users/berkbayar/Desktop/OpenAI API Web App - Back End/bin/Debug/net8.0/ChatGptApiApplication.deps.json
+/Users/berkbayar/Desktop/OpenAI API Web App - Back End/bin/Debug/net8.0/ChatGptApiApplication.runtimeconfig.json
+/Users/berkbayar/Desktop/OpenAI API Web App - Back End/bin/Debug/net8.0/ChatGptApiApplication.dll
+/Users/berkbayar/Desktop/OpenAI API Web App - Back End/bin/Debug/net8.0/ChatGptApiApplication.pdb
+/Users/berkbayar/Desktop/OpenAI API Web App - Back End/bin/Debug/net8.0/Microsoft.AspNetCore.OpenApi.dll
+/Users/berkbayar/Desktop/OpenAI API Web App - Back End/bin/Debug/net8.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/berkbayar/Desktop/OpenAI API Web App - Back End/bin/Debug/net8.0/Microsoft.OpenApi.dll
+/Users/berkbayar/Desktop/OpenAI API Web App - Back End/bin/Debug/net8.0/Newtonsoft.Json.dll
+/Users/berkbayar/Desktop/OpenAI API Web App - Back End/bin/Debug/net8.0/OpenAI_API.dll
+/Users/berkbayar/Desktop/OpenAI API Web App - Back End/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/berkbayar/Desktop/OpenAI API Web App - Back End/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/berkbayar/Desktop/OpenAI API Web App - Back End/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/berkbayar/Desktop/OpenAI API Web App - Back End/obj/Debug/net8.0/ChatGptApiApplication.csproj.AssemblyReference.cache
+/Users/berkbayar/Desktop/OpenAI API Web App - Back End/obj/Debug/net8.0/ChatGptApiApplication.GeneratedMSBuildEditorConfig.editorconfig
+/Users/berkbayar/Desktop/OpenAI API Web App - Back End/obj/Debug/net8.0/ChatGptApiApplication.AssemblyInfoInputs.cache
+/Users/berkbayar/Desktop/OpenAI API Web App - Back End/obj/Debug/net8.0/ChatGptApiApplication.AssemblyInfo.cs
+/Users/berkbayar/Desktop/OpenAI API Web App - Back End/obj/Debug/net8.0/ChatGptApiApplication.csproj.CoreCompileInputs.cache
+/Users/berkbayar/Desktop/OpenAI API Web App - Back End/obj/Debug/net8.0/ChatGptApiApplication.MvcApplicationPartsAssemblyInfo.cs
+/Users/berkbayar/Desktop/OpenAI API Web App - Back End/obj/Debug/net8.0/ChatGptApiApplication.MvcApplicationPartsAssemblyInfo.cache
+/Users/berkbayar/Desktop/OpenAI API Web App - Back End/obj/Debug/net8.0/staticwebassets.build.json
+/Users/berkbayar/Desktop/OpenAI API Web App - Back End/obj/Debug/net8.0/staticwebassets.development.json
+/Users/berkbayar/Desktop/OpenAI API Web App - Back End/obj/Debug/net8.0/staticwebassets/msbuild.ChatGptApiApplication.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/berkbayar/Desktop/OpenAI API Web App - Back End/obj/Debug/net8.0/staticwebassets/msbuild.build.ChatGptApiApplication.props
+/Users/berkbayar/Desktop/OpenAI API Web App - Back End/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.ChatGptApiApplication.props
+/Users/berkbayar/Desktop/OpenAI API Web App - Back End/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.ChatGptApiApplication.props
+/Users/berkbayar/Desktop/OpenAI API Web App - Back End/obj/Debug/net8.0/staticwebassets.pack.json
+/Users/berkbayar/Desktop/OpenAI API Web App - Back End/obj/Debug/net8.0/scopedcss/bundle/ChatGptApiApplication.styles.css
+/Users/berkbayar/Desktop/OpenAI API Web App - Back End/obj/Debug/net8.0/ChatGptA.08A2C51F.Up2Date
+/Users/berkbayar/Desktop/OpenAI API Web App - Back End/obj/Debug/net8.0/ChatGptApiApplication.dll
+/Users/berkbayar/Desktop/OpenAI API Web App - Back End/obj/Debug/net8.0/refint/ChatGptApiApplication.dll
+/Users/berkbayar/Desktop/OpenAI API Web App - Back End/obj/Debug/net8.0/ChatGptApiApplication.pdb
+/Users/berkbayar/Desktop/OpenAI API Web App - Back End/obj/Debug/net8.0/ChatGptApiApplication.genruntimeconfig.cache
+/Users/berkbayar/Desktop/OpenAI API Web App - Back End/obj/Debug/net8.0/ref/ChatGptApiApplication.dll
