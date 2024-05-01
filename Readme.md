@@ -32,6 +32,4 @@ The backend can be accessed via RESTful endpoints:
 
 Contributions are welcome. Please follow the [contribution guidelines](link to contribution guidelines).
 
-## License
 
-This project is licensed under the [MIT License](LICENSE.md).
