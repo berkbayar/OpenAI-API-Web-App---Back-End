@@ -928,11 +928,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/berkbayar/Desktop/OpenAI API Web App - Back End/ChatGptApiApplication.csproj",
+      "projectUniqueName": "/Users/berkbayar/Desktop/Projects/Github'a public olarak koyduğum OpenAI API Web Project/OpenAI API Web App - Back End/ChatGptApiApplication.csproj",
       "projectName": "ChatGptApiApplication",
-      "projectPath": "/Users/berkbayar/Desktop/OpenAI API Web App - Back End/ChatGptApiApplication.csproj",
+      "projectPath": "/Users/berkbayar/Desktop/Projects/Github'a public olarak koyduğum OpenAI API Web Project/OpenAI API Web App - Back End/ChatGptApiApplication.csproj",
       "packagesPath": "/Users/berkbayar/.nuget/packages/",
-      "outputPath": "/Users/berkbayar/Desktop/OpenAI API Web App - Back End/obj/",
+      "outputPath": "/Users/berkbayar/Desktop/Projects/Github'a public olarak koyduğum OpenAI API Web Project/OpenAI API Web App - Back End/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/berkbayar/.nuget/NuGet/NuGet.Config"

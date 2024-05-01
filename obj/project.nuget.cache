@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "X3d7sIEAJZUBbHseZ6L+xKhsS3QMfWAbsjjhXSmAYGkcQjwfHmLnu2ocUt/0v4S/EmpZRkkKLbUkGyUUWxIzsw==",
+  "dgSpecHash": "mzyNmmtUVIPDajHwKHoEhlIk6NI5QEiWX+0qMl19rkfdLH5gG1NwoPITNiClxVi/o4LnF8xGCTBtzVuoiTS0YA==",
   "success": true,
-  "projectFilePath": "/Users/berkbayar/Desktop/OpenAI API Web App - Back End/ChatGptApiApplication.csproj",
+  "projectFilePath": "/Users/berkbayar/Desktop/Projects/Github'a public olarak koyduğum OpenAI API Web Project/OpenAI API Web App - Back End/ChatGptApiApplication.csproj",
   "expectedPackageFiles": [
     "/Users/berkbayar/.nuget/packages/microsoft.aspnetcore.openapi/8.0.0/microsoft.aspnetcore.openapi.8.0.0.nupkg.sha512",
     "/Users/berkbayar/.nuget/packages/microsoft.bcl.asyncinterfaces/1.1.1/microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
